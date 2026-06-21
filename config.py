@@ -113,9 +113,9 @@ LEVEL_DESCRIPTIONS = {
 
 # ── Cámara ────────────────────────────────────────────────────
 CAMERA_INDEX       = 0
-FINGER_SMOOTHING   = 7
-MIN_DETECTION_CONF = 0.55
-MIN_TRACKING_CONF  = 0.55
+FINGER_SMOOTHING   = 5
+MIN_DETECTION_CONF = 0.75
+MIN_TRACKING_CONF  = 0.75
 DWELL_TIME_MS      = 450
 
 # ── Pantalla ──────────────────────────────────────────────────
